@@ -55,9 +55,6 @@ header {
     box-shadow: 0 0 2rem -1rem rgba(0, 0, 0, .5);
 }
 
-img {
-   width: 30%;
-}
 
 .nav{
     display: flex;
